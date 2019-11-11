@@ -1,0 +1,5 @@
+﻿  TrainingFramework.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+C:\Users\voanh\Desktop\Study\dohoamt\TrainingFramework_UET\TrainingFramework\TrainingFramework.cpp(67,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\voanh\Desktop\Study\dohoamt\TrainingFramework_UET\TrainingFramework\TrainingFramework.cpp(84,47): error C3867: 'Model::GetIboId': non-standard syntax; use '&' to create a pointer to member
+C:\Users\voanh\Desktop\Study\dohoamt\TrainingFramework_UET\TrainingFramework\TrainingFramework.cpp(85,55): error C3867: 'Model::GetIboId': non-standard syntax; use '&' to create a pointer to member
